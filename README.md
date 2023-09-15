@@ -2,6 +2,8 @@
 ### Name: Sitthiwat Damrongpreechar
 ### Student ID: st123994
 
+### Deployed website URL: https://st123994_a2.ml2023.cs.ait.ac.th/
+
 #### Required applications:
 1. Visual Studio Code (VScode)
 2. Docker Desktop
