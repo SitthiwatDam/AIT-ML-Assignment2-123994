@@ -24,6 +24,6 @@
    - 'sittiwat555/dash-a2' for 'docker-compose.yaml', select 'open in browser'
    - 'assignment2' for 'docker-compose_arch.yaml', select 'attach in vscode'
    - 'assignment2-mlflow' for 'docker-compose_arch.yaml', select 'open in browser'
-6. Run the 'main.py' file in folder 'code' to run the local website (for the 'docker-compose_arch.yaml')
+6. Run the 'index.py' file in folder 'code' to run the local website (for the 'docker-compose_arch.yaml')
 7. Install extensions that VScode suggests.
 8. Enjoy your prediction and Website! 
