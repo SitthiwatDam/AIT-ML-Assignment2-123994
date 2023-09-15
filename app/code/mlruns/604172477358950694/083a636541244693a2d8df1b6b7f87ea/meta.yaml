@@ -1,0 +1,15 @@
+artifact_uri: /root/code/mlruns/604172477358950694/083a636541244693a2d8df1b6b7f87ea/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '604172477358950694'
+lifecycle_stage: active
+run_id: 083a636541244693a2d8df1b6b7f87ea
+run_name: technique-polynomial-method-batch                                    -momentum-True-weight_ini-xavier                                    -lr-0.1-reg-Normal
+run_uuid: 083a636541244693a2d8df1b6b7f87ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694452495886
+status: 1
+tags: []
+user_id: sitthiwat

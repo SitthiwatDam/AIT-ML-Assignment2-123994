@@ -1,0 +1,6 @@
+artifact_location: /root/code/mlruns/604172477358950694
+creation_time: 1694448503318
+experiment_id: '604172477358950694'
+last_update_time: 1694448503318
+lifecycle_stage: active
+name: polynomial, lasso, ridge, normal

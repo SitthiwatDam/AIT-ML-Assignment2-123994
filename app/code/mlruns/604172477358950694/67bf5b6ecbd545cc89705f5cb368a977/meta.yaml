@@ -1,0 +1,15 @@
+artifact_uri: /root/code/mlruns/604172477358950694/67bf5b6ecbd545cc89705f5cb368a977/artifacts
+end_time: 1694490882026
+entry_point_name: ''
+experiment_id: '604172477358950694'
+lifecycle_stage: active
+run_id: 67bf5b6ecbd545cc89705f5cb368a977
+run_name: Fold-0
+run_uuid: 67bf5b6ecbd545cc89705f5cb368a977
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694490882000
+status: 4
+tags: []
+user_id: sitthiwat

@@ -1,0 +1,15 @@
+artifact_uri: /root/code/mlruns/604172477358950694/b8b1093263ec4e1bb321992e1165a810/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '604172477358950694'
+lifecycle_stage: active
+run_id: b8b1093263ec4e1bb321992e1165a810
+run_name: technique-polynomial-method-batch                                            -init-xavier-lr-0.1-reg-Normal
+run_uuid: b8b1093263ec4e1bb321992e1165a810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694448748183
+status: 1
+tags: []
+user_id: sitthiwat

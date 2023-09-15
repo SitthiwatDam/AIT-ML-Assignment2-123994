@@ -1,0 +1,15 @@
+artifact_uri: /root/code/mlruns/604172477358950694/964a894d8a0f4da1aaca68f3dfa92ab5/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '604172477358950694'
+lifecycle_stage: active
+run_id: 964a894d8a0f4da1aaca68f3dfa92ab5
+run_name: technique-linear-method-batch                                    -momentum-True-weight_ini-xavier                                    -lr-0.1-reg-Normal
+run_uuid: 964a894d8a0f4da1aaca68f3dfa92ab5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694449264537
+status: 1
+tags: []
+user_id: sitthiwat
