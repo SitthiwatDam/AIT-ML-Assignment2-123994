@@ -36,6 +36,14 @@ app.layout = html.Div([
 ],
     style={"text-align": "center"})
 
+intro_layout=  html.Div([
+    
+    html.Label('CHACKY COMPANY CO., LTD.', style={'textAlign': 'center', 'fontSize': 80, 'marginTop': '40vh', 'transform': 'translateY(-50%)',"font-weight": "1000"}),
+    html.Br(),
+    html.Label( ' You are now entering: Car\'s Price Prediction site', style={'textAlign': 'center', 'fontSize': 40,"font-weight": "400"}),
+    html.Br(),
+    html.Label( 'Please select the predicted model at the top right of the page', style={'textAlign': 'center', 'fontSize': 20,"font-weight": "200"})
+])
 # Callback to update page content based on the URL
 @app.callback(Output("page-content", "children"), [Input("url", "pathname")])
 def display_page(pathname):
@@ -44,7 +52,7 @@ def display_page(pathname):
     elif pathname == "/old_model":
         return old_model.layout
     elif pathname == "/":
-        main_layout
+        return intro_layout
 
 
 
