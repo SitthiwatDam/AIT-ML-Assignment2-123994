@@ -1,8 +1,6 @@
-# Machine Learning Assignment2 : Car Price Prediction (from scratch)
-### Name: Sitthiwat Damrongpreechar
-### Student ID: st123994
+# Car Price Prediction using Linear Regression + Regularization + Momentum (from scratch)
 
-### Deployed website URL: https://st123994_a2.ml2023.cs.ait.ac.th/
+### Deployed website URL: https://st123994_a2.ml2023.cs.ait.ac.th/ (CLOSED)
 
 #### Required applications:
 1. Visual Studio Code (VScode)
